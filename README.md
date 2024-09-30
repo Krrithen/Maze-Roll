@@ -1,5 +1,14 @@
 # Maze-Roll
-Maze Roll is an obstacle game where the player has to dodge the obstacles and reach the end.
+Maze Roll is an exciting obstacle-dodging game built with C#. Navigate through a series of challenging mazes, avoid obstacles, and reach the end to complete the game!
+
+Key Features:
+- Gyro-based controls for immersive gameplay
+- Dynamic and increasingly challenging obstacles
+- Smooth performance with engaging graphics
+Whether you're looking for a quick game or a more extended challenge, Maze Roll offers fun and excitement for players of all skill levels.
+
+APK available for download!
+
 ## Screenshots
 ![Screenshot_2020-10-04-04-09-30-067_com krrithen maze](https://user-images.githubusercontent.com/70514087/95002990-dabfdc80-05f7-11eb-9cb1-ab93ca38e3d8.jpg)
 
