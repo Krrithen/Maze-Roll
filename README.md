@@ -8,6 +8,7 @@ Key Features:
 Whether you're looking for a quick game or a more extended challenge, Maze Roll offers fun and excitement for players of all skill levels.
 
 APK available for download!
+[Download Maze Roll APK](https://github.com/Krrithen/Maze-Roll/releases/tag/v1.0)
 
 ## Screenshots
 ![Screenshot_2020-10-04-04-09-30-067_com krrithen maze](https://user-images.githubusercontent.com/70514087/95002990-dabfdc80-05f7-11eb-9cb1-ab93ca38e3d8.jpg)
